@@ -38,8 +38,3 @@ The model was built using `InceptionV3` and Deep Convolutional Neural Network as
 
 ###### The confusion matrix
 ![conf-mat](/images/CM.png)
-
-
-##### References
-* [Amy Zhang](https://www.kaggle.com/amyjang/tensorflow-pneumonia-classification-on-x-rays)
-* [Youtube](https://youtu.be/5IBnuauBvkQ)
